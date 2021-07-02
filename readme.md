@@ -1,0 +1,1 @@
+Initialise le site des Peinture avec Symfony 5
